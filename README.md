@@ -17,8 +17,8 @@ or
 ### Optionnal:
 ```-e``` Defining the number of epochs
 ```-r``` Defining learning rate
-```-s``` Saving the seed
-```-l``` Loading the seed
+```-s``` Saving a seed
+```-l``` Loading a seed
 
 ![mlp1_ok](https://user-images.githubusercontent.com/40288838/74127464-06123900-4bdb-11ea-8acc-38985de01a4c.png)
 
